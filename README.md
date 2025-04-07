@@ -1,3 +1,3 @@
 # Enem-Dask
 
-Testando Dask usando os microdaddos do ENEM
+Testando Dask usando os microdados do ENEM
